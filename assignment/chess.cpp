@@ -1,10 +1,10 @@
 /*----------------------------------------------------------
- *				HTBLA-Leonding / Klasse: 2AHDV
+ *				HTBLA-Leonding / Klasse: 2AHIF
  * ---------------------------------------------------------
  * Exercise Number: 0
  * Title:			chess.c
- * Author:			P. Bauer
- * Due Date:		November 03, 2010
+ * Author:			Daniel Andricic
+ * Due Date:		November 03, 2018
  * ----------------------------------------------------------
  * Description:
  * Implementation of basic chess functions.

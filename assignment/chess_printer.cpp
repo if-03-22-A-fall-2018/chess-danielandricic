@@ -1,9 +1,9 @@
 /*----------------------------------------------------------
- *				HTBLA-Leonding / Klasse: 2AHDV
+ *				HTBLA-Leonding / Klasse: 2AHIF
  * ---------------------------------------------------------
  * Exercise Number: 0
  * Title:			chess_printer.c
- * Author:			P. Bauer
+ * Author:			Daniel Andricic
  * Due Date:		November 03, 2010
  * ----------------------------------------------------------
  * Description:
