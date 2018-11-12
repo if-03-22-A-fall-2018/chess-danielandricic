@@ -20,9 +20,9 @@ typedef struct ChessSquare ChessBoard[8][8];
 typedef char File;
 typedef int Rank;
 
-enum MoveType = { NORMALMOVE, CAPTUREMOVE };
-enum PieceColor = { WHITE, BLACK};
-enum PieceType = { PAWN, ROOK, KNIGHT, BISHOP, QUEEN, KING, NOPIECE};
+enum MoveType = { Normalmove, Capturemove };
+enum PieceColor = { White, Black};
+enum PieceType = { Pawn, Rook, Knight, Bishop, Queen, King, NoPiece};
 
 struct ChessPiece
 {
